@@ -12,4 +12,4 @@ Technologies Used:
 
 Installation:
 - Download the jar file
-- Run the jar file using the command "java -jar /<\your-path\>/CalSchedulingSystem.jar"
+- Run the jar file using the command "java -jar /<\your-path>/CalSchedulingSystem.jar"
