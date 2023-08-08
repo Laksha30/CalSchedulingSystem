@@ -12,6 +12,7 @@ Technologies Used:
 
 Installation:
 - Application.properties file
+
 Change the "spring.mail.username" and "spring.mail.password" to your gmail Id and password (App password available [here](https://myaccount.google.com/u/1/apppasswords?utm_source=google-account&utm_medium=myaccountsecurity&utm_campaign=tsv-settings&rapt=AEjHL4NbCJZrXOT24L96VfQlisw84p6-zeE-W-uFzTsn305dPz5CNp_Vci-Aj1THAA3zdoLYu3bmzN5-rL3L_VY2njALLYIsIw) in your gmail account
 
 Change the "google.oauth2.clientId" and "google.oauth2.clientSecret" to your google API client ID and Secret key.
